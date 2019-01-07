@@ -8,5 +8,11 @@ public class Test {
         System.out.println("好嗨呦");
         System.out.println("好嗨呦");
         System.out.println("好嗨呦");
+
+        //shibushi
+
+    }
+    public void findAll(){
+        System.out.println("你好");
     }
 }
